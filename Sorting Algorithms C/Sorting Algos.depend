@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1477767807 source:/home/breandan/Documents/Sorting Algos/main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1478556360 source:/home/breandan/Documents/Work/College/3D5A - Data Structures & Algorithms/Sorting Algorithms C/main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	"Sort.h"
+
+1478556176 /home/breandan/Documents/Work/College/3D5A - Data Structures & Algorithms/Sorting Algorithms C/Sort.h
+	<stdbool.h>
+
+1478556270 source:/home/breandan/Documents/Work/College/3D5A - Data Structures & Algorithms/Sorting Algorithms C/Sort.c
+	"Sort.h"
+
